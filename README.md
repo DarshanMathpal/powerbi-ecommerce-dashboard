@@ -1,5 +1,6 @@
 # 📊 E-Commerce Dashboard | Power BI
 
+---
 ## 📌 Overview
 
 Developed an interactive Power BI dashboard to analyze e-commerce sales performance, profitability, units sold, discount impact, and product trends. This dashboard transforms raw data into actionable insights to support business decision-making.
