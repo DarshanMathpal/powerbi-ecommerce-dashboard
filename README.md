@@ -56,7 +56,3 @@ https://github.com/user-attachments/assets/73781f0b-f3ba-4198-ac6b-c3dd3717fbed
 2. Open in Power BI Desktop
 3. Explore visuals and interact with filters
 
-## 📬 Connect With Me
-
-Feel free to connect with me on LinkedIn for data analytics opportunities, feedback, or collaboration.
-
