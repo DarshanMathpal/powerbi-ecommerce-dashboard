@@ -42,17 +42,10 @@ https://github.com/user-attachments/assets/73781f0b-f3ba-4198-ac6b-c3dd3717fbed
 * Data Modeling
 * Data Visualization
 
-## 📂 Repository Contents
-
-* `E-commerce_Dashboard.pbix`
-* Dashboard screenshot
-* Data model screenshot
-* Demo video
-* README documentation
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
 3. Explore visuals and interact with filters
 
+⭐ If you liked this project, consider starring the repository.
